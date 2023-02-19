@@ -1,0 +1,14 @@
+# MAC OS
+.DS_Store
+
+# Jetbrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Python
+.venv/
+
+# Poetry
+poetry.lock
